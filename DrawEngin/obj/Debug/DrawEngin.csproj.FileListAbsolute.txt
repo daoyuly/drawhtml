@@ -1,0 +1,5 @@
+E:\Projects\DrawHtml\DrawEngin\bin\Debug\DrawEngin.dll
+E:\Projects\DrawHtml\DrawEngin\bin\Debug\DrawEngin.pdb
+E:\Projects\DrawHtml\DrawEngin\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\DrawHtml\DrawEngin\obj\Debug\DrawEngin.dll
+E:\Projects\DrawHtml\DrawEngin\obj\Debug\DrawEngin.pdb
